@@ -1,1 +1,5 @@
-Precious Swords is a pretty cool mod, it adds some pre-hardmode swords.You can send your feedback here: "thestudentofschool@gmail.com".
+This mod adds some new pre-hardmode swords. They are the melee versions of gem staffs.
+
+Latest changes:
+-Changed the description;
+-Added a mod homepage.
