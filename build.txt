@@ -1,3 +1,4 @@
 displayName = Precious Swords
 author = The student of school 366
-version = 0.3
+homepage =https://github.com/the-student-of-school-366/PreciousSwords/issues
+version = 0.5
